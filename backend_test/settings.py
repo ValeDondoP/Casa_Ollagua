@@ -47,6 +47,9 @@ INSTALLED_APPS = [
     "rest_framework",
     "django_extensions",
     "backend_test.utils",
+    "management",
+    "bootstrap4",
+    "bootstrap_datepicker_plus",
 ]
 
 MIDDLEWARE = [
